@@ -19,6 +19,7 @@ Includes:
 Key variables:
 
 state.drawTheGrid = True  ## currently set on True so it will display the board; if set on False nothing is displayed
+
 maxTurns = 100            ## currently set to 100 turns
 
 
