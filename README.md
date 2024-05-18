@@ -23,9 +23,9 @@ state.drawTheGrid = True  ## currently set on True so it will display the board;
 maxTurns = 100            ## currently set to 100 turns
 
 
-Call one of the following if training (learning) or just planning
+Call one of the following if training (learning) or just planning:
 
-### CTFtraining(state)  ### this option in case someone wants to create an aiPlayer that learns. Annotated with locations to add own methods
+CTFtraining(state)  ### this option in case someone wants to create an aiPlayer that learns. Annotated with locations to add own methods
 CTFplanning(state)      ### by default is doing (HTN) planning
 
 
