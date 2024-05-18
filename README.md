@@ -7,10 +7,10 @@ Unless required by applicable law or agreed to in writing, software distributed 
 
 Includes:
 
-- A self-created implementation for a sinple capture the Flag Game: 3 blue vs 3 red players, 3 flag locations 
+- A self-created implementation for a simple capture the Flag Game: 3 blue vs 3 red players, 3 flag locations 
 - A simple GUI
 - Uses Pyhop 1.2.2: https://bitbucket.org/dananau/pyhop/src/master/
-- Simply run and it will import pyhop and necessary lines
+- Simply run and it will import pyhop and necessary files
 - Will call Pyhop to generate a plan to CTF. Pyhop is controlling Blue
 - Opponent is red, which selects random flag locations
 
